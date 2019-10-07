@@ -16,7 +16,9 @@ a {
 	color: #0bc;
 	text-decoration: none;
 }
-
+#imports{
+	text-align: left;
+}
 #import {
 	color: #CC7832;
 }

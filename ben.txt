@@ -1,7 +1,7 @@
-<span id="import">import </span> <span id="code">benrybinski.skills.Java 8</span>
-<span id="import">import</span><span id="code">benrybinski.skills.JavaScript & TypeScript</span>
-<span id="import">import</span><span id="code">benrybinski.skills.Python</span>
-<span id="import">import</span><span id="code">benrybinski.skills.SQL</span>
+<div id="imports"><span id="import">import </span> <span id="code">benrybinski.skills.Java 8</span>
+<span id="import">import </span><span id="code">benrybinski.skills.JavaScript & TypeScript</span>
+<span id="import">import </span><span id="code">benrybinski.skills.Python</span>
+<span id="import">import </span><span id="code">benrybinski.skills.SQL</span></div>
 
 :<span id="b">~</span><span id="c">$</span> cd CodeNerve/<!-- laglaglaglaglaglag -->About_Us
 <span id="a"></span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->[your-name].txt<br/><br/>
