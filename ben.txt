@@ -1,4 +1,4 @@
-<span id="a">import Java 8</span>
+<span id="import">import </span> <span id="code">Java 8</span> 
 <span id="a">import JavaScript & TypeScript</span>
 <span id="a">import Python</span>
 <span id="a">import SQL</span>

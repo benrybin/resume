@@ -17,16 +17,19 @@ a {
 	text-decoration: none;
 }
 
-#a {
+#import {
 	color: #CC7832;
 }
 
-#c {
-	color: #0bc;
+#error {
+	color: #ff0000;
 }
 
-#b {
-	color: #ff0096;
+#annotations {
+	color: #BBB529;
+}
+#code {
+	color: #A9B7C6;
 }
 
 #k {
