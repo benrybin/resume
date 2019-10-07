@@ -2,9 +2,9 @@
 <span id="import">import </span><span id="code">benrybinski.skills.JavaScript & TypeScript</span>
 <span id="import">import </span><span id="code">benrybinski.skills.Python</span>
 <span id="import">import </span><span id="code">benrybinski.skills.SQL</span></div>
-
-:<span id="b">~</span><span id="c">$</span> cd CodeNerve/<!-- laglaglaglaglaglag -->About_Us
-<span id="a"></span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->[your-name].txt<br/><br/>
+<span id="annotations">@SoftwareDeveloper</span><br>
+<div id="code">< id="import">public class</span> benRybinski<div>
+<span id="">@SoftwareDeveloper</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->[your-name].txt<br/><br/>
 My favorite code quote, "<span id="k">Sweet</span>". <!-- sjkfhskjf -->
 
 Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
