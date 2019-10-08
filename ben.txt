@@ -2,9 +2,26 @@
 <span id="import">import </span><span id="code">benrybinski.skills.JavaScript & TypeScript</span>
 <span id="import">import </span><span id="code">benrybinski.skills.Python</span>
 <span id="import">import </span><span id="code">benrybinski.skills.SQL</span></div>
-<span id="annotations">@SoftwareDeveloper</span><br>
-<div id="code">< id="import">public class</span> benRybinski<div>
-<span id="">@SoftwareDeveloper</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->[your-name].txt<br/><br/>
+
+<div id="holder">
+<span id="annotations">@SoftwareDeveloper</span>
+<span id="import">public</span> class<span id="code"> benRybinski <span id="import">implments</span> agile, testDrivenDevelopment, contionusIntegration<span id="annotations">{</span><div>
+
+<br>
+<span id="annotations">@JUnit Test</span>
+<span id="import">private</span><span id ="code"> jUnitTests addTests(String yourCode)</span><span id="annotations">{</span>
+<span id="code">Boolean isThisWorking;</span>
+<span id="code">if(yourCode.works == true){
+isThisWorking = true;
+}else{
+isThisWorking = false;
+}
+</span>
+<span id="import">return</span><span id="code"> jUnitTests.status(isThisWorking);</span>
+
+
+
+<span id="annotations">}</span>
 My favorite code quote, "<span id="k">Sweet</span>". <!-- sjkfhskjf -->
 
 Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
