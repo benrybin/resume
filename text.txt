@@ -1,0 +1,8 @@
+Inteallj 
+
+orange #CC7832
+red (error message) #ff0000
+yellow (anatations) #BBB529
+Grey(code) = A9B7C6
+	margin-left:auto;
+	margin-right:auto;
