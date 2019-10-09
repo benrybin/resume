@@ -26,9 +26,9 @@ isThisWorking = false;
 
 Welcome! This is my Portfolio site.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>It is a work in progress at the moment.</p>
 <p>The majority of my professional back ground is in Technology Sales. I have always being interested in using technology to solve problems and what better way to do that then become a Software Developer.</p> <!-- lag -->
-<p>Projects</p><!-- delaydelaydelaydelaydelaydelaydelay -->
-<p><a href="https://basablog.herokuapp.com/">Blog Site using Java, Spring Boot & Angular</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
- <p>  <a href="https://github.com/benrybin/CareCompare">CareCompare medical procedure cost comparison site</a>
+Projects</p><!-- delaydelaydelaydelaydelaydelaydelay -->
+<p><a href="https://basablog.herokuapp.com/">Blog Site using Java, Spring Boot & Angular</a>.<!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
+  <a href="https://github.com/benrybin/CareCompare">CareCompare medical procedure cost comparison site</a>
   <a href="https://github.com/benrybin/lfg-new">Current Project complex group building website.</a> </p>
 
 My email<!-- slightdelayhere-->, feel free to send me an <!-- longlonglongcomment --><a href="mailto:benrybin@gmail.com">email</a>.
